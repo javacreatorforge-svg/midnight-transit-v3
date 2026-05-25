@@ -1,0 +1,42 @@
+{
+  "conductor_chase_theme": {
+    "category": "hostile",
+    "subtitle": "subtitle.midnight_transit.chase_theme",
+    "sounds": [{"name": "midnight_transit:chase_theme", "stream": true}]
+  },
+  "conductor_hurt": {
+    "category": "hostile",
+    "subtitle": "subtitle.midnight_transit.hurt",
+    "sounds": [{"name": "midnight_transit:hurt", "stream": false}]
+  },
+  "conductor_death": {
+    "category": "hostile",
+    "subtitle": "subtitle.midnight_transit.death",
+    "sounds": [{"name": "midnight_transit:death", "stream": false}]
+  },
+  "conductor_footsteps": {
+    "category": "hostile",
+    "subtitle": "subtitle.midnight_transit.footsteps",
+    "sounds": [{"name": "midnight_transit:footsteps", "stream": false}]
+  },
+  "conductor_hello": {
+    "category": "hostile",
+    "subtitle": "subtitle.midnight_transit.hello",
+    "sounds": [{"name": "midnight_transit:hello_voice", "stream": false}]
+  },
+  "conductor_help": {
+    "category": "hostile",
+    "subtitle": "subtitle.midnight_transit.help",
+    "sounds": [{"name": "midnight_transit:help_voice", "stream": false}]
+  },
+  "conductor_iseeyou": {
+    "category": "hostile",
+    "subtitle": "subtitle.midnight_transit.iseeyou",
+    "sounds": [{"name": "midnight_transit:iseeyou_voice", "stream": false}]
+  },
+  "message_audio": {
+    "category": "voice",
+    "subtitle": "subtitle.midnight_transit.message_audio",
+    "sounds": [{"name": "midnight_transit:message_audio", "stream": true}]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "midnight_transit:item/message_audio"
+  }
+}

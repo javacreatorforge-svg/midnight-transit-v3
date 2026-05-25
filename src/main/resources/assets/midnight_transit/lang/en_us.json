@@ -1,0 +1,20 @@
+{
+  "itemGroup.midnight_transit": "Midnight Transit",
+  "entity.midnight_transit.conductor_no_9": "Conductor No. 9",
+  "item.midnight_transit.conductor_no_9_spawn_egg": "Conductor No. 9 Spawn Egg",
+  "item.midnight_transit.message_audio": "Message [Audio]",
+  "subtitle.midnight_transit.chase_theme": "He's chasing...",
+  "subtitle.midnight_transit.hurt": "He's hurt",
+  "subtitle.midnight_transit.death": "He's gone... for now",
+  "subtitle.midnight_transit.footsteps": "Footsteps...",
+  "subtitle.midnight_transit.hello": "Hello?",
+  "subtitle.midnight_transit.help": "Help me...",
+  "subtitle.midnight_transit.iseeyou": "I see you",
+  "subtitle.midnight_transit.message_audio": "Whatever you do, do not go outside when dark...",
+  "message_audio.midnight_transit.line1": "Whatever you do, do not go outside when dark.",
+  "message_audio.midnight_transit.line2": "It lurks and tries to kill you, he stalks you without you knowing.",
+  "message_audio.midnight_transit.line3": "Make an house as fast as possible. If you hear footsteps, immediately hide.",
+  "message_audio.midnight_transit.line4": "It lur- Error, Error, Error. System Over- Die Die Die Die Die Die Die, I SEE YOU.",
+  "hide.midnight_transit.title": "HIDE",
+  "hide.midnight_transit.hes_here": "HE'S HERE"
+}
